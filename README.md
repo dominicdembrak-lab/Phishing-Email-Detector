@@ -1,5 +1,6 @@
 # AI Phishing Email Detector
 
+https://phishing-email-detector-m7dvtnpq8cwyznjeqf26lr.streamlit.app/
 A machine learning project that classifies email text as either phishing or legitimate.
 
 ## Technologies
