@@ -1,6 +1,6 @@
 # AI Phishing Email Detector
 
-A beginner-friendly cybersecurity machine learning project that classifies email text as either phishing or legitimate.
+A machine learning project that classifies email text as either phishing or legitimate.
 
 ## Technologies
 
